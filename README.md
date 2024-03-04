@@ -2,7 +2,7 @@
 
 ## Author : @CognitiveClass.ai
 
-### mentee assignment from IBM Advance AI @ Infinite Learning Course completition of Build a Chatbot Using LLM from CognitiveClass.ai
+### mentee assignment from IBM Advance AI @ Infinite Learning Course Create Your Own Chatbot Website with Open Source LLMs from CognitiveClass.ai
 
 ## Mentee Info
 
